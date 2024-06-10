@@ -9,4 +9,6 @@ Topics:
   3. CURSOR 
   4. Automation
 
+Contact me at gauravssingh18@gmail.com
+
 NOTE: The full SQL script can not be shared due to company privacy policy.
